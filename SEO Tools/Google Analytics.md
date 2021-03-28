@@ -1,0 +1,2 @@
+# What is Google Analytics?
+Google Analytics is the most used website and application monitoring and analysis tool in the world. Some of its advantages are: ease of configuration, integration with other Google services, such as Ads and Search Console, and a very complete free version. With the tool installed correctly, it is possible to monitor the profile of those who access your website, the most accessed pages, conversions, devices, cities and many other data. 
