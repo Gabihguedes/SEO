@@ -1,0 +1,2 @@
+A comprehensive SEO platform that gives you info on newly acquired backlinks, keyword rankings and site speed. It even sends you alerts whenever one of your competitors gets a new link. I especially love the dashboard because its clean and gives you ONLY the essential info you need.
+![app-dashboard](https://user-images.githubusercontent.com/81485117/112769072-ff5ba680-8fd3-11eb-904f-57e7a0e92e7d.jpg)
