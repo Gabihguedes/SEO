@@ -33,3 +33,9 @@ In "Add permissions for" enter the email of the Google user you want to add and 
 It is worth remembering that the tool brings countless possibilities and, the better configured it is, the more structured data it will be able to collect.
 So, a great idea is to go deeper into both the configuration and the analysis and reports that it is capable of generating.
 Google itself provides a channel on YouTube and a specific page for learning with tips and courses on the service offered by them.
+
+# Tips for getting more out of Google Analytics
+**1 - Secondary dimensions**
+The first essential tip is the secondary dimensions. It is relatively simple and already delivers a lot of value to anyone who is analyzing. Although simple, most people do not know how to use it properly or even know that this feature exists.
+**Primary dimensions**
+Before talking about the secondary, let's first talk about the primary. This is the part that most people are most familiar with. Roughly speaking, it is the main parameter you want to analyze, such as “pages”, “origin” and “campaign”. When selecting a primary dimension (such as “pages”), I will see the performance in numbers of all my pages, such as the number of visitors, average time, bounce rate, etc.
