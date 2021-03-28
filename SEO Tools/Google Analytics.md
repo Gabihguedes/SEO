@@ -35,7 +35,33 @@ So, a great idea is to go deeper into both the configuration and the analysis an
 Google itself provides a channel on YouTube and a specific page for learning with tips and courses on the service offered by them.
 
 # Tips for getting more out of Google Analytics
-**1 - Secondary dimensions**
+## Secondary dimensions
 The first essential tip is the secondary dimensions. It is relatively simple and already delivers a lot of value to anyone who is analyzing. Although simple, most people do not know how to use it properly or even know that this feature exists.
-**Primary dimensions**
+
+## Primary dimensions
 Before talking about the secondary, let's first talk about the primary. This is the part that most people are most familiar with. Roughly speaking, it is the main parameter you want to analyze, such as “pages”, “origin” and “campaign”. When selecting a primary dimension (such as “pages”), I will see the performance in numbers of all my pages, such as the number of visitors, average time, bounce rate, etc.
+![image041](https://user-images.githubusercontent.com/81485117/112767075-822b3400-8fc9-11eb-9da6-c12c80ba30e0.png)
+
+## Secondary dimensions
+The secondary dimensions allow to deepen the analysis in the primary dimensions. When selecting a particular primary property (for example the ‘/ blog’ page), it is possible to use the secondary dimensions, which open up several possibilities for analysis.
+For example:
+Primary dimension: Page -> shows a list of pages and performance per page
+Clicking on the ‘/ blog’ page and selecting the secondary dimension “type of traffic” -> shows the distribution of visits to the blog according to the type of traffic source (organic, direct, referral, social, etc.).
+![image03](https://user-images.githubusercontent.com/81485117/112767155-e6e68e80-8fc9-11eb-96af-18ee0fde6975.png)
+
+## Track campaigns
+One of the great advantages of Digital Marketing is the possibility of measuring the return on investment of marketing actions. To help with this, it is very common to separate these actions by campaigns. And it is this tracking of actions and campaigns that Google Analytics can help measure.
+Imagine that you are running a specific Christmas campaign. In this campaign, you send some Email Marketing, buy ads on Ads and Facebook Ads, buy banner space on some website and make a series of guest posts on blogs. The big goal with all these actions is to bring traffic and convert these visitors into Leads.
+Through the trackable URLs that we explain in the post What is UTM and how to create parameters for your URLs with a UTM Generator (URL Builder), it is possible to group all these specific actions in a campaign and see how many visits and conversions it has generated.
+![image06](https://user-images.githubusercontent.com/81485117/112767316-e39fd280-8fca-11eb-81fd-495b5b42fff8.png)
+
+## Create dashboard
+We can translate Dashboards as a control panel, that is, a compilation of the main information and metrics of your business. They are essential for those who work with quantitative data, making it easier to follow the main metrics and have a view of the whole.
+In GA we find a multitude of metrics, but some are much more strategic for your business than others. For this reason, Google allows you to choose for yourself what will be the first information you will see when you sign in to your account.
+![image01](https://user-images.githubusercontent.com/81485117/112767355-2a8dc800-8fcb-11eb-9154-bde03738adfc.png)
+Building the Dashboard in GA basically boils down to adding widgets, which are interfaces created by Google itself for tracking numbers. You just need to know what to follow and assemble the widgets according to your need.
+GA also provides the ability to import Dashboards built by others, as long as they have been made publicly available.
+Some possible examples are new user schedules, session geomaps and bar graphs for the bounce rate of the page.
+An alternative solution for those seeking practicality and even deeper analysis is the use of specialized software, such as Marketing BI, an integral part of RD Station Marketing. In it you can find all the main metrics related to your business, acquisition channels and campaigns.
+
+
