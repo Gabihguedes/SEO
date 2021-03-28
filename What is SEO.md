@@ -1,7 +1,3 @@
-#What is SEO
+# What is SEO?
 
-######SEO stands for Search Engine Optimization. It is a tool used to make better use of (optimization) search engines (search) - so that your company's page is at the top of the results of search engines like Google, Yahoo and Bing, for example.
-
-SEO refers specifically to the results placed on the left side of the page, those in which there is no charge for their definition, as opposed to those that are listed in the right corner, at the top of the page. These are chosen against payment.
-
-SEO is important because it can be the source of a significant source of free traffic for your business. It is an opportunity to publicize your company to a high quality audience that is actively looking for the products and services you offer. These potential customers are highly qualified. Best of all, they'll find your business for free!
+## SEO stands for Search Engine Optimization. It is a tool used to make better use of search engines - so that your company's page is at the top of the results of search engines like Google, Yahoo and Bing, for example. SEO refers specifically to the results placed on the left side of the page, those in which there is no charge for their definition, as opposed to those that are listed in the right corner, at the top of the page. These are chosen against payment. SEO is important because it can be the source of a significant source of free traffic for your business. It is an opportunity to publicize your company to a high quality audience that is actively looking for the products and services you offer. These potential customers are highly qualified. Best of all, they'll find your business for free!
